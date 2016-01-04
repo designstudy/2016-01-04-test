@@ -85,7 +85,7 @@ Javaのバージョンや名称については、複雑で分かりにくいも�
     |J2SE|Java 2 StandardEdition| 基本となるもので、開発および実行環境一式が揃っている。|
     |J2EE|Java 2 EnterpriseEdition|サーバ上でJavaプログラムを動かす機能等をJ2SEに追加したもの。
     |J2ME|Java 2 MobileEdition|携帯電話や携帯端末向けの組み込み用Java。|
-
+    
     J2SEはJDKをどれかダウンロードしてインストールすれば、そこに入っています。J2EEは後に登場する「Tomcat」など、WEBサーバでJavaプログラムを動かすソフトウェアを導入すると手に入ります。J2MEは組み込み系の開発をやる時にしか触れないと思います。
     
 1. JDK のことをどう呼ぶか
