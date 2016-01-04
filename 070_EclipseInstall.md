@@ -81,7 +81,7 @@ Javaのバージョンや名称については、複雑で分かりにくいも�
 1. 開発環境の種類
 
     |名称|正式名称|説明|
-    |:-|:-|:-|
+    |:-:|:-:|:-:|
     |J2SE|Java 2 StandardEdition| 基本となるもので、開発および実行環境一式が揃っている。|
     |J2EE|Java 2 EnterpriseEdition|サーバ上でJavaプログラムを動かす機能等をJ2SEに追加したもの。
     |J2ME|Java 2 MobileEdition|携帯電話や携帯端末向けの組み込み用Java。|
@@ -91,7 +91,7 @@ Javaのバージョンや名称については、複雑で分かりにくいも�
 1. JDK のことをどう呼ぶか
 
     |バージョン|呼び方|
-    |:-|:-|
+    |:-:|:-:|
     |初期～1.1|JDK(Java Development Kit)|
     |1.2～1.4|J2SDK(Java 2 Software Development Kit)|
     |1.5～現在|JDK(Java Development Kit)|
